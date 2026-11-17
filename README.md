@@ -273,10 +273,10 @@ The database is pre-seeded with initial accounts for immediate evaluation:
 
 | Name | Role | Student ID |
 | :--- | :--- | :--- |
-| **Himanshu** | **Project Leader & Lead Developer** | `2510001185` |
-| **Shubham** | **Core Developer** | `2510001171` |
-| **Sameer** | **Core Developer** | `2510001164` |
-| **Khushveer** | **Core Developer** | `2510001153` |
+| **Himanshu** **Mishra** | **Project Leader & Lead Developer** | `2510001185` |
+| **Shubham** **Kumar** **Singh** | **Core Developer** | `2510001171` |
+| **Sameer** **Verma** | **Core Developer** | `2510001164` |
+| **Khushvir** **Singh** | **Core Developer** | `2510001153` |
 
 ---
 
