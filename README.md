@@ -1,4 +1,4 @@
-# 🎫 Online Complaint & Helpdesk Management System
+# 🎫 Online Complaint & Helpdesk Management system
 
 <div align="center">
 
